@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sohammandaviya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XSXs8cC6nwZ1qjsqWaNSqvhS6tBWT7tD/view](https://drive.google.com/file/d/1XSXs8cC6nwZ1qjsqWaNSqvhS6tBWT7tD/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ataLrFx1QI9Ks7v3mqizO69OLz3QhAtn/view](https://drive.google.com/file/d/1ataLrFx1QI9Ks7v3mqizO69OLz3QhAtn/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
