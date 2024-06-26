@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/swa_aham" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="https://x.com/swa_aham" height="30" width="40" /></a>
+<a href="https://x.com/swa_aham" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="https://x.com/swa_aham" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soham-mandaviya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-mandaviya/" height="30" width="40" /></a>
 <a href="https://instagram.com/sva.aham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sva.aham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swa_aham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa_aham" height="30" width="40" /></a>
