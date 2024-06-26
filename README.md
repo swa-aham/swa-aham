@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Mandaviya</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://sva-aham.vercel.app/](https://sva-aham.vercel.app/)
+- 👨‍💻 Know about my skills, projects and background at [sohammandaviya.dev](https://sva-aham.vercel.app/)
 
 - 📫 How to reach me **sohammandaviya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ataLrFx1QI9Ks7v3mqizO69OLz3QhAtn/view](https://drive.google.com/file/d/1ataLrFx1QI9Ks7v3mqizO69OLz3QhAtn/view)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1ataLrFx1QI9Ks7v3mqizO69OLz3QhAtn/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
