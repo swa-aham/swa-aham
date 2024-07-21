@@ -7,12 +7,10 @@
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1hzjvR3IQGiuJjQ4QntMfYqkINKKIoU73/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Visit my socials:</h3>
 <p align="left">
 <a href="https://x.com/swa_aham" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="https://x.com/swa_aham" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soham-mandaviya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-mandaviya/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swa_aham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa_aham" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/202001142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/202001142/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
