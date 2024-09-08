@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sohammandaviya@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1P1o8nrTRQl1juKoeSv1t5Zl_lz8933sR/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1QLI9n9oLMH4ErAYVPMxuQenOC7pFFBVs/view)
 
 <h3 align="left">Visit my socials:</h3>
 <p align="left">
