@@ -10,7 +10,7 @@
 
 <h3 align="left">My current tech stack:</h3>
 
-- Java, Spring Boot, ELK, Python, React, NextJS, PostgreSQL
+- Java, Spring Boot, ELK, Python, React, NextJS, PostgreSQL, & MongoDB
 
 
 
