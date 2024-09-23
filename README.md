@@ -4,6 +4,17 @@
 # 💫 About Me:
 I am a passionate software engineer with 1+ years of industry experience crafting efficient and user-friendly applications.
 
+- 👨‍💻 Know about my skills, projects and background at [sohammandaviya.dev](https://sva-aham.vercel.app/)
+
+- 📫 How to reach me **sohammandaviya@gmail.com**
+
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1QLI9n9oLMH4ErAYVPMxuQenOC7pFFBVs/view)
+
+
+<h3 align="left">My current tech stack:</h3>
+
+- Java, Spring Boot, ELK, Python, React, NextJS, PostgreSQL, & MongoDB
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soham-mandaviya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/swa_aham) 
