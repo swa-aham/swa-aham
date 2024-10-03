@@ -4,7 +4,7 @@
 # 💫 About Me:
 I am a passionate software engineer with 1+ years of industry experience crafting efficient and user-friendly applications.
 
-- 👨‍💻 Know about my skills, projects and background at [sohammandaviya.dev](https://sva-aham.vercel.app/)
+- 👨‍💻 Know about my skills, projects & background at [sohammandaviya.dev](https://sva-aham.vercel.app/)
 
 - 📫 How to reach me **sohammandaviya@gmail.com**
 
