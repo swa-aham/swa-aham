@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Mandaviya</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 # 💫 About Me:
 I am a passionate software engineer with 1+ years of industry experience crafting efficient and user-friendly applications.
