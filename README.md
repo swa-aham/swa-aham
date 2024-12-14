@@ -8,7 +8,7 @@ I am a passionate software engineer with 1 year of industry experience crafting 
 
 - 📫 How to reach me **sohammandaviya@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1QLI9n9oLMH4ErAYVPMxuQenOC7pFFBVs/view)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1XUefn4_i6J_E8G869SSqfMgoJf43rGgI/view)
 
 
 <h3 align="left">My current tech stack:</h3>
