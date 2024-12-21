@@ -13,7 +13,7 @@ I am a passionate software engineer with 1 year of industry experience crafting 
 
 <h3 align="left">Tech stack:</h3>
 
-- Java, Spring Boot, ELK, Python, React, NextJS, PostgreSQL, & MongoDB
+- Java, Spring Boot, ELK stack, Python, React, NextJS, PostgreSQL, & MongoDB
 
 
 ## 🌐 Socials:
