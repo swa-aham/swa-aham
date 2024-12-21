@@ -11,7 +11,7 @@ I am a passionate software engineer with 1 year of industry experience crafting 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1XUefn4_i6J_E8G869SSqfMgoJf43rGgI/view)
 
 
-<h3 align="left">My current tech stack:</h3>
+<h3 align="left">Tech stack:</h3>
 
 - Java, Spring Boot, ELK, Python, React, NextJS, PostgreSQL, & MongoDB
 
