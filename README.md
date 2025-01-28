@@ -13,7 +13,7 @@
 
 <h3 align="left">Tech stack:</h3>
 
-- Java, Spring Boot, ELK stack, Python, React, NextJS, PostgreSQL, & MongoDB
+- Java, Spring Boot, Spring AI, Redis, Kafka, Python, React, SQL, MongoDB, ELK
 
 
 ## 🌐 Socials:
