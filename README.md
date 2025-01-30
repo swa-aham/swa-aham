@@ -8,7 +8,7 @@
 
 - How to reach me **sohammandaviya@gmail.com**
 
-- Checkout my [Resume](https://drive.google.com/file/d/1XUefn4_i6J_E8G869SSqfMgoJf43rGgI/view)
+- Checkout my [Resume](https://drive.google.com/file/d/1GN_hOmb_wowiPzhGK7Po7jQ1sRW1hdky/view)
 
 
 <h3 align="left">Tech stack:</h3>
