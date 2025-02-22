@@ -4,7 +4,7 @@
 #
 **I am a passionate software engineer with 8 months of experience. [Open to work]**
 
-- Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](about:blank)
+- Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/1ZBpMKUQoDUtmphoWd_t9c0XKaYJaHqff/view?usp=sharing)
 - Email me at **sohammandaviya@gmail.com**
 
 
