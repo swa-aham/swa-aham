@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 #
-**I am a passionate software engineer with 8 months of experience. [Open to work]**
+I am a passionate software engineer with 1+ years of experience in software development. **Actively looking for SDE roles.**
 
 - Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/1ZBpMKUQoDUtmphoWd_t9c0XKaYJaHqff/view?usp=sharing)
 - Email me at **sohammandaviya@gmail.com**
