@@ -4,7 +4,7 @@
 #
 I am a passionate software engineer with 1+ years of experience in software development. **Actively looking for SDE roles.**
 
-- Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/1ZBpMKUQoDUtmphoWd_t9c0XKaYJaHqff/view?usp=sharing)
+- Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/12KKjD0bcSzbMy3aatEjm2L72QNIgVw28/view?usp=sharing)
 - Email me at **sohammandaviya@gmail.com**
 
 
