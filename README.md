@@ -7,6 +7,8 @@ I am a passionate software engineer with 1+ years of experience in software deve
 
 - Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/12KKjD0bcSzbMy3aatEjm2L72QNIgVw28/view?usp=sharing)
 
+I have worked on many projects which included building & maintaining REST APIs, optimizing DB performance, optimizing API performance, implementing caching techniques, enabling observability in microservices using ELK stack, enabling asynchronous communication between microservices using Kafka and developing Elasticsearch connectors for several data sources to enable fast & efficient search operation over large data pool. And also spent time fixing some critical production bugs and ensuring high code coverage with unit testing.
+
 
 <h3 align="left">Skills</h3>
 
