@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Soham</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<h3 align="center">This guy is looking for a job</h3>
+<h3 align="center">Looking for SDE 1 roles</h3>
 
 #
 I am a passionate software engineer with 1+ years of experience in software development. **Actively looking for SDE roles.**
@@ -19,3 +19,4 @@ I have worked on many projects which included building & maintaining REST APIs, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-mandaviya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swa_aham) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
