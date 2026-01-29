@@ -3,7 +3,7 @@
 <h3 align="center">Looking for SDE 1 roles</h3>
 
 #
-I am a passionate software engineer with 1+ years of experience in software development. **Actively looking for SDE roles.**
+I am a passionate software engineer with 1.5 years of experience in software development. **Actively looking for SDE roles.**
 
 - Visit my [Portfolio](https://sva-aham.vercel.app/) & [Resume](https://drive.google.com/file/d/180Qte2vUVPwa1GGLeh81whJSXVtTYReE/view)
 
