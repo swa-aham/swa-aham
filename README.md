@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Soham</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<h3 align="center">Looking for SDE 1 roles</h3>
+<h3 align="center">Looking for SDE roles</h3>
 
 #
 I am a passionate software engineer with 1.5 years of experience in software development. **Actively looking for SDE roles.**
