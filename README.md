@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Soham</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<h3 align="center">Looking for SDE roles</h3>
 
 #
-I am a passionate software engineer with 1.5 years of experience in software development. **Actively looking for SDE roles.**
+I am a passionate software engineer with 1.5 years of experience in software development.
 
 - Visit my [Portfolio](https://sohammandaviya.vercel.app) & [Resume](https://drive.google.com/file/d/180Qte2vUVPwa1GGLeh81whJSXVtTYReE/view)
 
-I have worked on many projects which included building & maintaining REST APIs, optimizing DB performance, optimizing API performance, implementing caching techniques, enabling observability in microservices using ELK stack, enabling asynchronous communication between microservices using Kafka and developing Elasticsearch connectors for several data sources to enable fast & efficient search operation over large data pool. And also spent time fixing some critical production bugs and ensuring high code coverage with unit testing.
+I have worked on projects which included building & maintaining REST APIs, optimizing DB performance, optimizing API performance, implementing caching techniques, enabling observability in microservices using ELK stack, enabling asynchronous communication between microservices using Kafka and developing Elasticsearch connectors for several data sources to enable fast & efficient search operation over large data pool. And also spent time fixing some critical production bugs and ensuring high code coverage with unit testing.
 
 ---
 
